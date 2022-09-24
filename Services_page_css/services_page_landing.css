@@ -48,7 +48,7 @@ body {
     color: white;
 }
 .swiper-wrapper .Slide-1{
-    background: url(icu_bg_1.jpg)no-repeat center center/cover;
+    background: url(Services_Page_img/emer_ambulance.jpg)no-repeat center center/cover;
     position: relative;
     padding-top: 75px;
     z-index: -2;
@@ -66,7 +66,7 @@ body {
     z-index: -1;
 }
 .swiper-wrapper .Slide-2{
-    background: url(emer_ambulance.jpg)no-repeat center center/cover;
+    background: url(Services_Page_img/emer_ambulance.jpg)no-repeat center center/cover;
     position: relative;
     padding-top: 75px;
     z-index: -2;
@@ -84,7 +84,7 @@ body {
     z-index: -1;
 }
 .swiper-wrapper .Slide-3{
-    background: url(Blood_bg_1.jpg)no-repeat center center/cover;
+    background: url(Services_Page_img/emer_ambulance.jpg)no-repeat center center/cover;
     position: relative;
     padding-top: 75px;
     z-index: -2;
