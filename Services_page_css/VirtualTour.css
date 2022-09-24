@@ -1,0 +1,41 @@
+.VT h1{
+    /* background-color: gray; */
+    text-align: center;
+    margin-top: 20px;
+    font-size: 52px;
+}
+.VTourContainer {
+    position: relative;
+    /* width: 100%; */
+    height: 500px;
+    /* border: 2px solid red; */
+    margin: 15px 100px;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .VTourContainer img {  
+    height: 425px;
+    width: 750px;
+    margin: auto;
+  }
+  
+  .VTourContainer .VTbtn {
+    position: absolute;
+    top: 85%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    background-color: white;
+    color: black;
+    font-size: 16px;
+    padding: 16px 40px;
+    border: none;
+    cursor: pointer;
+    text-align: center;
+    /* border: 2px solid red; */
+  }
+  
+  .VTourContainer .VTbtn:hover {
+    background-color: gray  ;
+  }
